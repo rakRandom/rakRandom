@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
-<h3 align="center">A Systems Development student, who loves developing games and websites.</h3>
+<h3 align="center">Studying Systems Development, passionate about technology and programming. Future software engineer looking for innovative solutions.</h3>
 
 - 🔭 I’m currently working on **learning something new every day.**
 
