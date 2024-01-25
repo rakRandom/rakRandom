@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fellipeleo100@gmail.com**
 
-- ⚡ Fun fact: **smart pointers aren't that good.**
+- ⚡ Fun fact: **The fear of long words is called Hippopotomonstrosesquippedaliophobia.**
 
 <h3 align="left">Languages and Tools that I use:</h3>
 <p align="left">
