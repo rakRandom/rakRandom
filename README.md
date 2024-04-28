@@ -17,8 +17,9 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="46em" alt="C" title="C"></a>
 <!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++"></a>
-<!-- Java -->
+<!-- Java 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java"></a>
+-->
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript"></a>
 <!-- JavaScript -->
