@@ -9,10 +9,8 @@
 
 - 📫 I'm currently using this e-mail: **fellipeleo100@gmail.com**
 
-<br/>
-
+<br>
 <div align="center">
-<h3>Languages and Tools that I use:</h3>
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python"></a>
 <!-- C -->
@@ -38,8 +36,7 @@
 <!-- Git: -->
 <img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git"> 
 </div>
-
-<br/><br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/rakRandom">
