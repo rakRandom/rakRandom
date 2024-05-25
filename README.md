@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 <h3 align="center">Studying Systems Development, passionate about technology and programming. Future software engineer looking for innovative solutions.</h3>
 
-- 🔭 I’m currently working on **learning something new every day.**
+- Working on **learning something new every day.**
 
-- 🌱 I’m currently learning **Godot Engine and React.**
+- Learning **Svelte and Flask.**
 
-- 📫 I'm currently using this e-mail: **fellipeleo100@gmail.com**
+- Using this e-mail: **fellipeleo100@gmail.com**
 
 <br>
 <div align="center">
