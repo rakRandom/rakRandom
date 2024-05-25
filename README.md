@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 <h3 align="center">Studying Systems Development, passionate about technology and programming. Future software engineer looking for innovative solutions.</h3>
 
-- Working on **learning something new every day.**
+Working on **learning something new every day.**
 
-- Learning **Svelte and Flask.**
+Learning **Svelte and Flask.**
 
 <br>
 <div align="center">
