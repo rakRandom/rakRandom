@@ -8,7 +8,7 @@
 </h4>
 
 <p align="center">
-  Learning something new every day, especially <strong>Svelte and Flask.</strong>
+  Learning something new every day, especially <strong>Svelte and Flask</strong>.
   <br><br>
 </p>
 
