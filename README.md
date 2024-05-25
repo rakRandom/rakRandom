@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 <h3 align="center">Studying Systems Development, passionate about technology and programming. Future software engineer looking for innovative solutions.</h3>
 
-<p align="center"> Working on **learning something new every day.** | Learning **Svelte and Flask.** </p>p
+<p align="center"> Working on <b>learning something new every day.</b> | Learning <b>Svelte and Flask.</b> </p>
 
 <br>
 <div align="center">
