@@ -1,21 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
-<h3 align="center">Studying Systems Development, passionate about technology and programming. Future software engineer looking for innovative solutions.</h3>
+<h2 align="center">Hi 👋, I'm Fellipe Leonardo</h2>
+<h4 align="center">
+  Studying Systems Development, passionate about technology and programming.
+  <br>
+  Future software engineer looking for innovative solutions.
+</h4>
 
-<h2 align="center"> Learning something new every day, especially <b>Svelte and Flask.</b> </h2>
+<p align="center">
+  Learning something new every day, especially <strong>Svelte and Flask.</strong>
+  <br><br>
+</p>
 
-<br>
+<hr>
 <div align="center">
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python"></a>
 <!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="46em" alt="C" title="C"></a>
 <!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++"></a>
-<!-- Java 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java"></a>
--->
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript"></a>
 <!-- JavaScript -->
@@ -25,13 +27,13 @@
 <!--HTML5  -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML"></a>
 <!-- React -->
-<img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React">   
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React"></a>
 <!-- Tailwind: -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="TailwindCSS" title="TailwindCSS"></a>
-<!-- Bootstrap: -->
-<img src="https://skillicons.dev/icons?i=bootstrap" height="46em" alt="Bootstrap" title="Bootstrap"> 
-<!-- Git: -->
-<img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git"> 
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python"></a>
+<!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java"></a>
 </div>
 <br/>
 
