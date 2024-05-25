@@ -7,8 +7,6 @@
 
 - Learning **Svelte and Flask.**
 
-- Using this e-mail: **fellipeleo100@gmail.com**
-
 <br>
 <div align="center">
 <!-- Python -->
