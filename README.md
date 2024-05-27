@@ -1,11 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
+<h3>
 <blockquote>
   “If the human brain were so simple that we could understand it, we would be so simple that we couldn’t.”
   <br>
   ― Emerson M. Pugh
 </blockquote>
+</h3>
 
 <br>
   
@@ -27,39 +29,18 @@
 <br>
 
 <section>
-  <h2>Main Projects</h2>
+  <h2>Projects</h2>
 
   <section>
-    <h3>
-      - <a href="https://github.com/rakRandom/brainduck-interpreter">Brainfuck Interpreter and Compiler</a>
-    </h3>
+    <h3> Main projects: </h3>
+    <ul>
+      <li><a href="https://github.com/rakRandom/brainduck-interpreter">Brainfuck Interpreter and Compiler</a></li>
+      <li><a href="https://github.com/rakRandom/auto-music-downloader">Music Downloader</a></li>
+      <li><a href="https://github.com/rakRandom/PingPong">Pong in Python</a></li>
+      <li><a href="https://github.com/rakRandom/godot-ping-pong">Pong in Godot</a></li>
+      <li><a href="https://github.com/rakRandom/gravity-simulator">Gravity Simulator</a></li>
+    </ul>
   </section>
-  
-  <section>
-    <h3>
-      - <a href="https://github.com/rakRandom/auto-music-downloader">Music Downloader</a>
-    </h3>
-  </section>
-
-  <section>
-    <h3>
-      - <a href="https://github.com/rakRandom/PingPong">Pong in Python</a>
-    </h3>
-  </section>
-
-  <section>
-    <h3>
-      - <a href="https://github.com/rakRandom/godot-ping-pong">Pong in Godot</a>
-    </h3>
-  </section>
-
-  <section>
-    <h3>
-      - <a href="https://github.com/rakRandom/gravity-simulator">Gravity Simulator</a>
-    </h3>
-  </section>
-
-  <br>
   
   <section>
     <h3> Minor projects: </h3>
@@ -71,8 +52,6 @@
       <li><a href="https://github.com/rakRandom/Runneer"> Runneer Game </a></li>
     </ul>
   </section>
-
-  
   
   <section>
     <h3> Projects bundles: </h3>
@@ -81,8 +60,6 @@
       <li><a href="https://github.com/rakRandom/python-projects"> Python projects </a></li>
     </ul>
   </section>
-
-  
   
   <section>
     <h3> Projects outside GitHub or incomplete: </h3>
