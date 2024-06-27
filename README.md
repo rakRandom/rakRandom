@@ -34,6 +34,7 @@
   <section>
     <h3> Main projects: </h3>
     <ul>
+      <li><a href="https://github.com/rakRandom/dicas-de-jogos-site">Games Tips Website</a></li>
       <li><a href="https://github.com/rakRandom/brainduck-interpreter">Brainfuck Interpreter and Compiler</a></li>
       <li><a href="https://github.com/rakRandom/auto-music-downloader">Music Downloader</a></li>
       <li><a href="https://github.com/rakRandom/PingPong">Pong in Python</a></li>
@@ -66,7 +67,6 @@
     <ul>
       <li><a href="">8-Bits Computer</a> &nbsp; (in Logisim Evolution)</li>
       <li><a href="https://github.com/rakRandom/dark-forest">Dark Forest Game</a> &nbsp; (in Godot)</li>
-      <li><a href="https://github.com/rakRandom/dicas-de-jogos-site">Games Tips Website</a> &nbsp; (made with a group)</li>
       <li><a href="https://github.com/rakRandom/teams-clone"> Teams Webapp Clone </a></li>
       <li><a href="https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor">Temperature and Humidity Sensor</a> &nbsp; (Tinkercad)</li>
       <li><a href="https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora">Arduino Calculator</a> &nbsp; (Tinkercad)</li>
