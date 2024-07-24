@@ -4,29 +4,25 @@
 <h3>
 <blockquote>
   “If the human brain were so simple that we could understand it, we would be so simple that we couldn’t.”
-  <br>
+  <br />
   ― Emerson M. Pugh
 </blockquote>
 </h3>
 
-<br>
+<br />
   
 <section>
   <h2>About me</h2>
   
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    I'm a student of Systems Development course integrated with High School, passionate about technology, programming and all the things relationed to Computer Science.
-    Future software engineer looking for innovative solutions.
-  </p>
-  
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Trying to learn something new every day, especially <strong>Svelte and Flask</strong>.
-  </p>
+  <ul>
+    <li> I'm a student of Systems Development, with a passion since childhood about technology, programming and all the things relationed to computers. </li>
+    <li> Future Computer Scientist looking for the best solutions, and sometimes the funny ones. </li>
+    <li> Mainly Web Developer, but I also like Computer Architecture, Game Development, Desktop and Mobile Aplications, Machine Learning and more. </li>
+    <li> Trying to improve myself every day, especially learning <strong>Svelte and Flask</strong>. </li>
+  </ul>
 </section>
 
-<br>
+<br />
 
 <section>
   <h2>Projects</h2>
@@ -66,38 +62,38 @@
   <section>
     <h3> Projects outside GitHub or incomplete: </h3>
     <ul>
-      <li><a href="">8-Bits Computer</a> &nbsp; (in Logisim Evolution)</li>
-      <li><a href="https://github.com/rakRandom/dark-forest">Dark Forest Game</a> &nbsp; (in Godot)</li>
+      <li><a href="">8-Bits Computer</a> &nbsp; (Logisim Evolution)</li>
+      <li><a href="https://github.com/rakRandom/dark-forest">Dark Forest Game</a> &nbsp; (Godot)</li>
       <li><a href="https://github.com/rakRandom/teams-clone"> Teams Webapp Clone </a></li>
       <li><a href="https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor">Temperature and Humidity Sensor</a> &nbsp; (Tinkercad)</li>
       <li><a href="https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora">Arduino Calculator</a> &nbsp; (Tinkercad)</li>
       <li><a href="https://www.essencialsuplementosnat.com.br/">Essencial Suplementos Website</a> &nbsp; (Wix)</li>
-      <li><a href="https://github.com/rakRandom/neo-new-neovim">Neo New Neovim</a> &nbsp; (Text Editor)</li>
+      <li><a href="https://github.com/rakRandom/neo-new-neovim">Neo New Neovim</a></li>
     </ul>
   </section>
 </section>
 
-<br>
+<br />
 
 <section>
   <h2></h2>
   <br>
   <div align="center">
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="46em" alt="C" title="C"></a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++"></a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript"></a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"></a>
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML"></a>
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" height="46em" alt="CSS" title="CSS"></a>
-  <!--HTML5  -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML"></a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"></a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript"></a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++"></a>
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="46em" alt="C" title="C"></a>
   <!-- React -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React"></a>
-  <!-- Tailwind: -->
+  <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="TailwindCSS" title="TailwindCSS"></a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python"></a>
@@ -106,7 +102,7 @@
   </div>
 </section>
 
-<br/>
+<br />
 
 <div align="center">
   <a href="https://github.com/rakRandom">
@@ -114,6 +110,6 @@
   </a>
 </div>
 
-<br>
+<br />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=footer"/>
