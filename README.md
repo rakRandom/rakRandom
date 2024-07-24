@@ -37,7 +37,7 @@
       <li><a href="https://github.com/rakRandom/dicas-de-jogos-site">Games Tips Website</a></li>
       <li><a href="https://github.com/rakRandom/dicas-de-jogos-api">Games Tips API</a></li>
       <li><a href="https://github.com/rakRandom/brainduck-interpreter">Brainfuck Interpreter and Compiler</a></li>
-      <li><a href="https://github.com/rakRandom/auto-music-downloader">Music Downloader</a></li>
+      <li><a href="https://github.com/rakRandom/youtube-downloader">Youtube Downloader</a></li>
       <li><a href="https://github.com/rakRandom/PingPong">Pong in Python</a></li>
       <li><a href="https://github.com/rakRandom/godot-ping-pong">Pong in Godot</a></li>
       <li><a href="https://github.com/rakRandom/gravity-simulator">Gravity Simulator</a></li>
