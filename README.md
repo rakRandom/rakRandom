@@ -80,28 +80,23 @@
   <h2></h2>
   <br>
   <div align="center">
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML"></a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" height="46em" alt="CSS" title="CSS"></a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"></a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript"></a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++"></a>
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="46em" alt="C" title="C"></a>
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React"></a>
-  <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="TailwindCSS" title="TailwindCSS"></a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python"></a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java"></a>
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,c,python,java,godot,kotlin,tailwind,react,svelte,next,vite,nodejs,flask,git,figma,arduino&perline=10">
   </div>
 </section>
+
+<!--
+<section>
+  <p>Programming Languages</p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java,godot,kotlin,lua,rust,php,bash&perline=6">
+  <p>Web Technologies</p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,svelte,vite,bootstrap,nodejs,django,flask,laravel&perline=6">
+  <p>Database & Tools</p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,redis,firebase">
+  <p>Other tools & Technologies</p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,figma,arduino">
+</section>
+-->
 
 <br />
 
