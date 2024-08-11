@@ -18,7 +18,7 @@
     <li> I'm a student of Systems Development, with a passion since childhood about technology, programming and all the things relationed to computers. </li>
     <li> Future Computer Scientist looking for the best solutions, and sometimes the funny ones. </li>
     <li> Mainly Web Developer, but I also like Computer Architecture, Game Development, Desktop and Mobile Aplications, Machine Learning and more. </li>
-    <li> Trying to improve myself every day, especially learning <strong>Svelte and Flask</strong>. </li>
+    <li> Trying to improve myself every day, especially learning <strong>Rust and Web Development</strong>. </li>
   </ul>
 </section>
 
