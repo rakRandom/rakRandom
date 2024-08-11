@@ -30,6 +30,7 @@
   <section>
     <h3> Main projects: </h3>
     <ul>
+      <li><a href="https://github.com/rakRandom/rust-http-server">HTTP Server in Rust</a></li>
       <li><a href="https://github.com/rakRandom/file-sharing-system-host">File Sharing System Host</a> (and <a href="https://github.com/rakRandom/file-sharing-system-client">Client</a>)</li>
       <li><a href="https://github.com/rakRandom/dicas-de-jogos-site">Games Tips Website</a></li>
       <li><a href="https://github.com/rakRandom/dicas-de-jogos-api">Games Tips API</a></li>
@@ -81,7 +82,7 @@
   <br>
   <div align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,c,python,java,godot,kotlin,tailwind,react,svelte,next,vite,nodejs,flask,git,figma,arduino&perline=10">
+    src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,c,python,java,godot,rust,tailwind,react,svelte,next,vite,nodejs,flask,git,figma,arduino&perline=10">
   </div>
 </section>
 
