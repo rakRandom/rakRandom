@@ -71,6 +71,7 @@
       <li><a href="https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora">Arduino Calculator</a> &nbsp; (Tinkercad)</li>
       <li><a href="https://www.essencialsuplementosnat.com.br/">Essencial Suplementos Website</a> &nbsp; (Wix)</li>
       <li><a href="https://github.com/rakRandom/neo-new-neovim">Neo New Neovim</a></li>
+      <li><a href="https://github.com/rakRandom/c-http-server">HTTP Server in C</a></li>
     </ul>
   </section>
 </section>
