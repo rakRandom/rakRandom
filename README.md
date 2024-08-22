@@ -34,7 +34,7 @@
       <li><a href="https://github.com/rakRandom/file-sharing-system-host">File Sharing System Host</a> (and <a href="https://github.com/rakRandom/file-sharing-system-client">Client</a>)</li>
       <li><a href="https://github.com/rakRandom/dicas-de-jogos-site">Games Tips Website</a></li>
       <li><a href="https://github.com/rakRandom/dicas-de-jogos-api">Games Tips API</a></li>
-      <li><a href="https://github.com/rakRandom/brainduck-interpreter">Brainfuck Interpreter and Compiler</a></li>
+      <li><a href="https://github.com/rakRandom/brainduck-projects">Brainfuck Interpreter and Compiler</a></li>
       <li><a href="https://github.com/rakRandom/youtube-downloader">Youtube Downloader</a></li>
       <li><a href="https://github.com/rakRandom/PingPong">Pong in Python</a></li>
       <li><a href="https://github.com/rakRandom/godot-ping-pong">Pong in Godot</a></li>
