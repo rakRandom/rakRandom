@@ -11,70 +11,57 @@
 
 <br />
   
-<section>
-  <h2>About me</h2>
-  
-  <ul>
-    <li> I'm a student of Systems Development, with a passion since childhood about technology, programming and all the things relationed to computers. </li>
-    <li> Future Computer Scientist looking for the best solutions, and sometimes the funny ones. </li>
-    <li> Mainly Web Developer, but I also like Computer Architecture, Game Development, Desktop and Mobile Aplications, Machine Learning and more. </li>
-    <li> Trying to improve myself every day, especially learning <strong>Rust and Web Development</strong>. </li>
-  </ul>
-</section>
+## About me
+- I'm a student of Systems Development, with a passion since childhood about technology, programming and all the things relationed to computers.
+- Future Computer Scientist looking for the best solutions, and sometimes the funny ones.
+- Mainly Web Developer, but I also like Computer Architecture, Game Development, Desktop and Mobile Aplications, Machine Learning and more.
+- Trying to improve myself every day, especially learning <strong>Web Development and Rust</strong>.
 
 <br />
 
-<section>
-  <h2>Projects</h2>
+## Projects
 
-  <section>
-    <h3> Main projects: </h3>
-    <ul>
-      <li><a href="https://github.com/rakRandom/rust-http-server">HTTP Server in Rust</a></li>
-      <li><a href="https://github.com/rakRandom/file-sharing-system-host">File Sharing System Host</a> (and <a href="https://github.com/rakRandom/file-sharing-system-client">Client</a>)</li>
-      <li><a href="https://github.com/rakRandom/dicas-de-jogos-site">Games Tips Website</a></li>
-      <li><a href="https://github.com/rakRandom/dicas-de-jogos-api">Games Tips API</a></li>
-      <li><a href="https://github.com/rakRandom/brainduck-projects">Brainfuck Interpreter and Compiler</a></li>
-      <li><a href="https://github.com/rakRandom/youtube-downloader">Youtube Downloader</a></li>
-      <li><a href="https://github.com/rakRandom/PingPong">Pong in Python</a></li>
-      <li><a href="https://github.com/rakRandom/godot-ping-pong">Pong in Godot</a></li>
-      <li><a href="https://github.com/rakRandom/gravity-simulator">Gravity Simulator</a></li>
-    </ul>
-  </section>
-  
-  <section>
-    <h3> Minor projects: </h3>
-    <ul>
-      <li><a href="https://github.com/rakRandom/the-fps"> The FPS </a></li>
-      <li><a href="https://github.com/rakRandom/python-mysql-crud"> MySQL CRUD in Python Guide </a></li>
-      <li><a href="https://github.com/rakRandom/css"> CSS Flexbox Guide </li>
-      <li><a href="https://github.com/rakRandom/expense-tracker"> Expense Tracker </a></li>
-      <li><a href="https://github.com/rakRandom/Runneer"> Runneer Game </a></li>
-    </ul>
-  </section>
-  
-  <section>
-    <h3> Projects bundles: </h3>
-    <ul>
-      <li><a href="https://github.com/rakRandom/web-projects"> Web projects </a></li>
-      <li><a href="https://github.com/rakRandom/python-projects"> Python projects </a></li>
-    </ul>
-  </section>
-  
-  <section>
-    <h3> Projects outside GitHub or incomplete: </h3>
-    <ul>
-      <li><a href="">8-Bits Computer</a> &nbsp; (Logisim Evolution)</li>
-      <li><a href="https://github.com/rakRandom/dark-forest">Dark Forest Game</a> &nbsp; (Godot)</li>
-      <li><a href="https://github.com/rakRandom/teams-clone"> Teams Webapp Clone </a></li>
-      <li><a href="https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor">Temperature and Humidity Sensor</a> &nbsp; (Tinkercad)</li>
-      <li><a href="https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora">Arduino Calculator</a> &nbsp; (Tinkercad)</li>
-      <li><a href="https://www.essencialsuplementosnat.com.br/">Essencial Suplementos Website</a> &nbsp; (Wix)</li>
-      <li><a href="https://github.com/rakRandom/neo-new-neovim">Neo New Neovim</a></li>
-      <li><a href="https://github.com/rakRandom/c-http-server">HTTP Server in C</a></li>
-    </ul>
-  </section>
-</section>
+### Website
+- [The Game Tips](https://github.com/rakRandom/dicas-de-jogos-site) (Website)
+- [File Sharing System Host](https://github.com/rakRandom/file-sharing-system-host)
+- [CSS Flexbox](https://github.com/rakRandom/css) (Guide)
+- [Expense Tracker](https://github.com/rakRandom/expense-tracker)
+- [Teams Webapp Clone](https://github.com/rakRandom/teams-clone)
+
+### HTTP Server and Web API (Things that somehow have network and internet as their focus)
+- [HTTP Server in Rust](https://github.com/rakRandom/rust-http-server)
+- [HTTP Server in C](https://github.com/rakRandom/c-http-server)
+- [Youtube Downloader](https://github.com/rakRandom/youtube-downloader)
+- [The Game Tips](https://github.com/rakRandom/dicas-de-jogos-api) (API)
+- [File Sharing System Client](https://github.com/rakRandom/file-sharing-system-client)
+- [Python Host Finder](https://github.com/rakRandom/python-host-finder)
+
+### CRUD
+- [MySQL CRUD in Python](https://github.com/rakRandom/python-mysql-crud) (Guide)
+- [MySQL CRUD in Java](https://github.com/rakRandom/java-crud)
+- [MySQL CRUD in PHP](https://github.com/rakRandom/php-crud)
+
+### Games
+- [Pong in Godot](https://github.com/rakRandom/godot-ping-pong)
+- [Dark Forest Game](https://github.com/rakRandom/dark-forest)
+- [Pong in Python](https://github.com/rakRandom/PingPong)
+- [The FPS](https://github.com/rakRandom/the-fps)
+- [Runneer Game](https://github.com/rakRandom/Runneer)
+
+### Low Level (that doesn't fit in previous categories)
+- [Neo New Neovim](https://github.com/rakRandom/neo-new-neovim)
+- [Brainfuck Projects](https://github.com/rakRandom/brainduck-projects) (Interpreters and Compilers)
+- [Gravity Simulator](https://github.com/rakRandom/gravity-simulator)
+
+### Bundles
+- [Python Projects](https://github.com/rakRandom/web-projects)
+- [Web Projects](https://github.com/rakRandom/python-projects)
+
+### Projects outside of GitHub
+- 8-Bits Computer - [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
+- [Temperature and Humidity Sensor](https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor) - [Tinkercad](https://www.tinkercad.com/)
+- [Arduino Calculator](https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora) - [Tinkercad](https://www.tinkercad.com/)
+- [Essencial Suplementos Website](https://www.essencialsuplementosnat.com.br/) - [Wix](https://www.wix.com/)
 
 <br />
 
@@ -82,23 +69,15 @@
   <h2></h2>
   <br>
   <div align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,c,python,java,godot,rust,tailwind,react,svelte,next,vite,nodejs,flask,git,figma,arduino&perline=10">
+    <h3> Technologies that I have the most experience </h3>
+    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,tailwind,svelte,flask,git&perline=5">
+    <h3> Technologies that I know very well </h3>
+    <img src="https://skillicons.dev/icons?i=cpp,c,godot,react,next,vite,figma">
+    <h3> Technologies that I can use for projects </h3>
+    <img src="https://skillicons.dev/icons?i=java,php,nodejs,cs,arduino">
   </div>
 </section>
 
-<!--
-<section>
-  <p>Programming Languages</p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java,godot,kotlin,lua,rust,php,bash&perline=6">
-  <p>Web Technologies</p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,svelte,vite,bootstrap,nodejs,django,flask,laravel&perline=6">
-  <p>Database & Tools</p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,redis,firebase">
-  <p>Other tools & Technologies</p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,figma,arduino">
-</section>
--->
 
 <br />
 
