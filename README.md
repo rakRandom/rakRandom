@@ -66,14 +66,13 @@
 <br />
 
 <section>
-  <h2></h2>
-  <br>
   <div align="center">
-    <h3> Technologies that I have the most experience </h3>
+    <h2>Technologies that I use</h2>
+    <h3> Expert-Level Proficiency </h3>
     <img  src="https://skillicons.dev/icons?i=html,css,js,ts,python,flask,svelte,tailwind,godot,cpp,mysql,git&perline=6">
-    <h3> Technologies that I know very well </h3>
+    <h3> Advanced Competence </h3>
     <img src="https://skillicons.dev/icons?i=c,rust,react,vite,java,figma">
-    <h3> Technologies that I can use for projects </h3>
+    <h3> Proficient Usage </h3>
     <img src="https://skillicons.dev/icons?i=tauri,php,nodejs,next,firebase,arduino">
   </div>
 </section>
