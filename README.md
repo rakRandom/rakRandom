@@ -70,9 +70,9 @@
   <br>
   <div align="center">
     <h3> Technologies that I have the most experience </h3>
-    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,tailwind,svelte,flask,git&perline=5">
+    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,python,godot,tailwind,svelte,flask,git&perline=5">
     <h3> Technologies that I know very well </h3>
-    <img src="https://skillicons.dev/icons?i=cpp,c,godot,react,next,vite,figma">
+    <img src="https://skillicons.dev/icons?i=cpp,c,rust,react,next,vite,figma">
     <h3> Technologies that I can use for projects </h3>
     <img src="https://skillicons.dev/icons?i=java,php,nodejs,cs,arduino">
   </div>
