@@ -21,7 +21,7 @@
 
 ## Projects
 
-### Website
+### Web Development
 - [The Game Tips](https://github.com/rakRandom/dicas-de-jogos-site) (Website)
 - [File Sharing System Host](https://github.com/rakRandom/file-sharing-system-host)
 - [CSS Flexbox](https://github.com/rakRandom/css) (Guide)
