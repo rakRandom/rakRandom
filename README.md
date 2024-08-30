@@ -82,9 +82,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/rakRandom">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rakRandom&count_private=true&show_icons=true&title_color=5589d6&text_color=DEDEDE&icon_color=5589d6&bg_color=191919&border_radius=20&hide_border=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakRandom&layout=compact&title_color=5589d6&text_color=DEDEDE&bg_color=191919&border_radius=20&langs_count=5&&hide_border=true"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rakRandom&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <br />
