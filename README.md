@@ -68,7 +68,7 @@
 <section>
   <div align="center">
     <h2>Technologies that I use</h2>
-    <h3> Expert-Level Proficiency </h3>
+    <h3> Most Experience </h3>
     <img  src="https://skillicons.dev/icons?i=html,css,js,ts,python,flask,svelte,tailwind,godot,cpp,mysql,git&perline=6">
     <h3> Advanced Competence </h3>
     <img src="https://skillicons.dev/icons?i=c,rust,react,vite,java,figma">
