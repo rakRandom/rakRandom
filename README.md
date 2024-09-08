@@ -54,8 +54,8 @@
 - [Gravity Simulator](https://github.com/rakRandom/gravity-simulator)
 
 ### Bundles
-- [Python Projects](https://github.com/rakRandom/web-projects)
-- [Web Projects](https://github.com/rakRandom/python-projects)
+- [Python Projects](https://github.com/rakRandom/python-projects)
+- [Web Projects](https://github.com/rakRandom/web-projects)
 
 ### Projects outside of GitHub
 - 8-Bits Computer - [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
