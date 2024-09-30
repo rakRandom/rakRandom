@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 <h3>
 <blockquote>
-  “If the human brain were so simple that we could understand it, we would be so simple that we couldn’t.”
+  “Intelligence is the ability to avoid doing work, yet getting the work done.”
   <br />
-  ― Emerson M. Pugh
+  ― Linus Torvalds
 </blockquote>
 </h3>
 
